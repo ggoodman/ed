@@ -42,6 +42,7 @@ user = new User("ggoodman", "password")
 # Lets try and give this user a bad username
 user.username = "$$$LOLZ$$$"
 
+# The new username has magically not taken effect
 user.display()
 ```
 
@@ -50,6 +51,7 @@ user.display()
    'enhanced' through ed.ify.
 
 ## TODO
+ * This todo list
 
 ## License 
 
