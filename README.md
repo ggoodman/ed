@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/ggoodman/ed.png)](http://travis-ci.org/ggoodman/ed)
 # Ed
 
 Ed allows you to make your objects event-driven. Using ed, you can hook into
